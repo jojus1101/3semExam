@@ -1,0 +1,1 @@
+export const onlineURL = 'https://businessproject.dk/3semExam/'
